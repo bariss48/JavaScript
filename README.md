@@ -1,2 +1,2 @@
-# JavaScript Çağatay Çalı Eğitim // PauSiber
+# JavaScript - Çağatay Çalı - Eğitim // PauSiber
  
